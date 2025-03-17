@@ -2,6 +2,9 @@
 
 Zenith is a powerful **file integrity monitoring tool** built with **GoLang**, designed to detect unauthorized file modifications, log changes, and scan for malware using **YARA rules**.
 
+![Zenith Demo](https://github.com/Stallone2K/zenith/raw/Main/ASSETS/Sample.png)
+
+
 ## 🚀 Features
 
 - ✅ **File Integrity Checking**: Detects any unauthorized changes in monitored files.
